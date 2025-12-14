@@ -1,45 +1,286 @@
 #: locale=ko
 
+## Action
+
+### URL
+LinkBehaviour_38D4D0EB_2907_FBBA_419F_48B4FD9D7367.source = http://www.loremipsum.com
+LinkBehaviour_38D4E0EC_2907_FBBE_41BF_DD88A227DA30.source = http://www.loremipsum.com
+WebFrame_198A3B12_1666_89B6_41B5_4C2585EFD00E_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2624.874102370473!2d2.335449951395685!3d48.860611079186!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e671d877937b0f%3A0xb975fcfa192f84d4!2sMuseo+del+Louvre!5e0!3m2!1ses!2ses!4v1542366357291" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+PopupWebFrameBehaviour_0D2FF22F_1B41_F731_41B1_91277316F277.url = //www.youtube.com/embed/6gyatnXQAr0
+PopupWebFrameBehaviour_06A042DC_1B43_F717_41B2_DCECC8878ACF.url = //www.youtube.com/embed/bb6zMm_siQQ
+PopupWebFrameBehaviour_3B473F33_1BC0_ED11_41B7_8D6B1A77CB7D.url = //www.youtube.com/embed/cJrcdlzmKWw
+PopupWebFrameBehaviour_079FB520_1B41_9D2E_4163_F3018687CBA0.url = //www.youtube.com/embed/jmCZhsw-hVo
+PopupWebFrameBehaviour_0E2D4B01_1B41_76F1_41A3_74803D017320.url = //www.youtube.com/embed/By4uyk132HM
+PopupWebFrameBehaviour_01D59CB5_1B40_B311_41A3_78D9CD94341A.url = //www.youtube.com/embed/UxPwK9Ppjsg
+
 ## Media
 
+### Floorplan
+
+### Image
+imlevel_0FAF1B55_1CFE_09BC_41A6_CBE9E9A2E058.url = media/map_324F3E60_1BCF_AF2E_41A9_B849ED9F807C_ko_0.webp
+imlevel_0FAFEB56_1CFE_09BC_41B5_50F855D26DE8.url = media/map_324F3E60_1BCF_AF2E_41A9_B849ED9F807C_ko_1.webp
+imlevel_0FAFCB56_1CFE_09BC_41B2_EA424667D494.url = media/map_324F3E60_1BCF_AF2E_41A9_B849ED9F807C_ko_2.webp
+imlevel_0FAFDB56_1CFE_09BC_4197_7136282CEF2B.url = media/map_324F3E60_1BCF_AF2E_41A9_B849ED9F807C_ko_3.webp
+imlevel_0FAFFB57_1CFE_09BC_418B_FCF4C34A5795.url = media/map_324F3E60_1BCF_AF2E_41A9_B849ED9F807C_ko_4.webp
+imlevel_3B3567A0_1BC1_9D2F_41A5_E6087AF2D595.url = media/popup_00B28781_1B40_BDF1_41BA_63CE4AEC6254_ko_0_0.webp
+imlevel_3B3577A0_1BC1_9D2F_41AC_6169C88E9376.url = media/popup_00B28781_1B40_BDF1_41BA_63CE4AEC6254_ko_0_1.webp
+imlevel_3B4A87A0_1BC1_9D2F_41B8_B143BBC04736.url = media/popup_00B28781_1B40_BDF1_41BA_63CE4AEC6254_ko_0_2.webp
+imlevel_3B4A97A1_1BC1_9D31_41A7_5D8503DCA8D5.url = media/popup_00B28781_1B40_BDF1_41BA_63CE4AEC6254_ko_0_3.webp
+imlevel_3B5E2FA7_1BC1_AD32_41B7_D7547057D8D2.url = media/popup_00B81532_1B40_9D13_41B7_B9C335E2CE44_ko_0_0.webp
+imlevel_3B582FA7_1BC1_AD32_4196_CB07C29300D3.url = media/popup_00B81532_1B40_9D13_41B7_B9C335E2CE44_ko_0_1.webp
+imlevel_3B584FA7_1BC1_AD32_41B2_8C51D9BFA3C6.url = media/popup_00B81532_1B40_9D13_41B7_B9C335E2CE44_ko_0_2.webp
+imlevel_3B585FA7_1BC1_AD32_41A8_E0BBB4B24034.url = media/popup_00B81532_1B40_9D13_41B7_B9C335E2CE44_ko_0_3.webp
+imlevel_3B4D8A4C_1BC1_9777_41AE_1606053B8365.url = media/popup_00CF6193_1B41_9511_4166_F43E98C57410_ko_0_0.webp
+imlevel_3B4F8A4D_1BC1_9771_419A_28FD8C5AE81A.url = media/popup_00CF6193_1B41_9511_4166_F43E98C57410_ko_0_1.webp
+imlevel_3B4FAA4D_1BC1_9771_41B8_A097AA933B5C.url = media/popup_00CF6193_1B41_9511_4166_F43E98C57410_ko_0_2.webp
+imlevel_3B4FBA4D_1BC1_9771_41A3_3416C49D76E5.url = media/popup_00CF6193_1B41_9511_4166_F43E98C57410_ko_0_3.webp
+imlevel_3B54B537_1BC1_BD11_41B4_289DE55A5439.url = media/popup_00DAFE6C_1B40_AF37_4179_DBC286BCCC6C_ko_0_0.webp
+imlevel_3B54A537_1BC1_BD11_41A4_3E4071F40B8A.url = media/popup_00DAFE6C_1B40_AF37_4179_DBC286BCCC6C_ko_0_1.webp
+imlevel_3B54C537_1BC1_BD11_41B8_DC2038F7F488.url = media/popup_00DAFE6C_1B40_AF37_4179_DBC286BCCC6C_ko_0_2.webp
+imlevel_3B54E537_1BC1_BD10_41A7_CF6CDBAB9E31.url = media/popup_00DAFE6C_1B40_AF37_4179_DBC286BCCC6C_ko_0_3.webp
+imlevel_3B4AD7B3_1BC1_9D11_41B4_7F607DA821E1.url = media/popup_00E1A23C_1B41_7717_41B0_F7C3B126FB9C_ko_0_0.webp
+imlevel_3B4AE7B3_1BC1_9D11_4191_008A4D1393C7.url = media/popup_00E1A23C_1B41_7717_41B0_F7C3B126FB9C_ko_0_1.webp
+imlevel_3B4A07B3_1BC1_9D11_41B3_2CCA6F0B8886.url = media/popup_00E1A23C_1B41_7717_41B0_F7C3B126FB9C_ko_0_2.webp
+imlevel_3B4A17B4_1BC1_9D17_41A7_DFA6F8B9439C.url = media/popup_00E1A23C_1B41_7717_41B0_F7C3B126FB9C_ko_0_3.webp
+imlevel_3B598F93_1BC1_AD12_41B1_267B17CC3A41.url = media/popup_00E33055_1B40_9316_41A5_EEFFCDD40916_ko_0_0.webp
+imlevel_3B599F94_1BC1_AD16_41A3_964924FFBE7F.url = media/popup_00E33055_1B40_9316_41A5_EEFFCDD40916_ko_0_1.webp
+imlevel_3B59AF94_1BC1_AD16_41B7_84EDDEE83EC7.url = media/popup_00E33055_1B40_9316_41A5_EEFFCDD40916_ko_0_2.webp
+imlevel_3B59CF94_1BC1_AD16_41B1_A7461E50554C.url = media/popup_00E33055_1B40_9316_41A5_EEFFCDD40916_ko_0_3.webp
+imlevel_3B35C78D_1BC1_9DF1_41B6_4299CF6C2076.url = media/popup_00FBE241_1B4F_9771_41B8_F8CC0D0E4ED0_ko_0_0.webp
+imlevel_3B35E78E_1BC1_9DF3_41AE_8B8EBF0868BF.url = media/popup_00FBE241_1B4F_9771_41B8_F8CC0D0E4ED0_ko_0_1.webp
+imlevel_3B35F78E_1BC1_9DF3_41B8_4C70F93B5902.url = media/popup_00FBE241_1B4F_9771_41B8_F8CC0D0E4ED0_ko_0_2.webp
+imlevel_3B35278E_1BC1_9DF3_4199_8B1B8CF85AB6.url = media/popup_00FBE241_1B4F_9771_41B8_F8CC0D0E4ED0_ko_0_3.webp
+imlevel_3B37E78F_1BC1_9DF1_41AB_E6D454BEB55A.url = media/popup_00FBE241_1B4F_9771_41B8_F8CC0D0E4ED0_ko_0_4.webp
+imlevel_3B1013B5_1BC1_7511_41AE_1CE8B7EC4F93.url = media/popup_01630FAC_1B40_AD36_4191_C6BCC9372B30_ko_0_0.webp
+imlevel_3B10E3B5_1BC1_7511_41AF_777A4D728F73.url = media/popup_01630FAC_1B40_AD36_4191_C6BCC9372B30_ko_0_1.webp
+imlevel_3B10D3B5_1BC1_7511_4142_DCBD9669AAFC.url = media/popup_01630FAC_1B40_AD36_4191_C6BCC9372B30_ko_0_2.webp
+imlevel_3B10A3B6_1BC1_7513_41A4_5E134BCB4C6B.url = media/popup_01630FAC_1B40_AD36_4191_C6BCC9372B30_ko_0_3.webp
+imlevel_3B0A03B5_1BC0_9511_41A6_4366616D2F33.url = media/popup_02154531_1B40_9D11_4171_BB19F7CA9EB4_ko_0_0.webp
+imlevel_3B0A13B5_1BC0_9511_4195_F832F75335E0.url = media/popup_02154531_1B40_9D11_4171_BB19F7CA9EB4_ko_0_1.webp
+imlevel_3B0AF3B5_1BC0_9511_41A9_8046C74075E2.url = media/popup_02154531_1B40_9D11_4171_BB19F7CA9EB4_ko_0_2.webp
+imlevel_3B0AC3B5_1BC0_9511_41AA_BDD113197246.url = media/popup_02154531_1B40_9D11_4171_BB19F7CA9EB4_ko_0_3.webp
+imlevel_3BF0E144_1BC0_9577_417C_442275054635.url = media/popup_027FDB6E_1B47_F533_41A6_DB7F49532EEA_ko_0_0.webp
+imlevel_3BF0F144_1BC0_9577_4199_47DAB024DD52.url = media/popup_027FDB6E_1B47_F533_41A6_DB7F49532EEA_ko_0_1.webp
+imlevel_3BF0D145_1BC0_9571_41B7_FE16B427618A.url = media/popup_027FDB6E_1B47_F533_41A6_DB7F49532EEA_ko_0_2.webp
+imlevel_3BF0F145_1BC0_9571_41A3_B102EC6A3D88.url = media/popup_027FDB6E_1B47_F533_41A6_DB7F49532EEA_ko_0_3.webp
+imlevel_3BF0C145_1BC0_9571_41B6_73902384EDB2.url = media/popup_027FDB6E_1B47_F533_41A6_DB7F49532EEA_ko_0_4.webp
+imlevel_3B18CF6B_1BC1_6D31_41B0_6350B8B5F51D.url = media/popup_02E02B07_1B43_96F1_419E_0AD184829B48_ko_0_0.webp
+imlevel_3B1ACF6B_1BC1_6D31_41AA_8D1116E6EDBC.url = media/popup_02E02B07_1B43_96F1_419E_0AD184829B48_ko_0_1.webp
+imlevel_3B1ADF6C_1BC1_6D37_41B3_D2BA53CC66B1.url = media/popup_02E02B07_1B43_96F1_419E_0AD184829B48_ko_0_2.webp
+imlevel_3B1AAF6C_1BC1_6D37_41B4_86C611678438.url = media/popup_02E02B07_1B43_96F1_419E_0AD184829B48_ko_0_3.webp
+imlevel_3A9298B9_1BC1_F311_41BB_401A692DCEF3.url = media/popup_0680C2CD_1B3F_7771_4198_4484DAFD42BE_ko_0_0.webp
+imlevel_3A9288BA_1BC1_F313_41B1_202D285C457D.url = media/popup_0680C2CD_1B3F_7771_4198_4484DAFD42BE_ko_0_1.webp
+imlevel_3A92F8BA_1BC1_F313_41A9_5FC5D0216238.url = media/popup_0680C2CD_1B3F_7771_4198_4484DAFD42BE_ko_0_2.webp
+imlevel_3A92E8BA_1BC1_F313_41B6_7B53E1874C7C.url = media/popup_0680C2CD_1B3F_7771_4198_4484DAFD42BE_ko_0_3.webp
+imlevel_3A9238BA_1BC1_F313_41B8_999093AD14D4.url = media/popup_0680C2CD_1B3F_7771_4198_4484DAFD42BE_ko_0_4.webp
+imlevel_3A9D28A8_1BC1_F33F_41B0_3239803C84F8.url = media/popup_068297ED_1B3F_9D36_4198_E7FA1988793A_ko_0_0.webp
+imlevel_3A9D18A8_1BC1_F33F_41A3_492B5A1A320E.url = media/popup_068297ED_1B3F_9D36_4198_E7FA1988793A_ko_0_1.webp
+imlevel_3A9D78A8_1BC1_F33F_41AA_0201FB07BA11.url = media/popup_068297ED_1B3F_9D36_4198_E7FA1988793A_ko_0_2.webp
+imlevel_3A9D68A8_1BC1_F33F_4191_D3E48DFFB23E.url = media/popup_068297ED_1B3F_9D36_4198_E7FA1988793A_ko_0_3.webp
+imlevel_3A9D58A9_1BC1_F331_41A6_26A04159F4A4.url = media/popup_068297ED_1B3F_9D36_4198_E7FA1988793A_ko_0_4.webp
+imlevel_3B60CAD1_1BC1_B711_4192_E605972F965F.url = media/popup_079D72AA_1B40_9732_418E_387D4207C156_ko_0_0.webp
+imlevel_3B60FAD1_1BC1_B711_41A2_258E5F1F7A95.url = media/popup_079D72AA_1B40_9732_418E_387D4207C156_ko_0_1.webp
+imlevel_3B60EAD1_1BC1_B711_414A_457E5A1A7F10.url = media/popup_079D72AA_1B40_9732_418E_387D4207C156_ko_0_2.webp
+imlevel_3B601AD1_1BC1_B711_41B1_76F2B6F9E870.url = media/popup_079D72AA_1B40_9732_418E_387D4207C156_ko_0_3.webp
+imlevel_3B063D03_1BC0_92F1_4156_9939DD66DB2C.url = media/popup_0D002632_1B40_9F12_41B7_39E02C13D61F_ko_0_0.webp
+imlevel_3B061D03_1BC0_92F1_41B7_6F89076AB86E.url = media/popup_0D002632_1B40_9F12_41B7_39E02C13D61F_ko_0_1.webp
+imlevel_3B06FD03_1BC0_92F1_41B8_C8D22296EE96.url = media/popup_0D002632_1B40_9F12_41B7_39E02C13D61F_ko_0_2.webp
+imlevel_3B06CD04_1BC0_92F7_419D_D780B1087815.url = media/popup_0D002632_1B40_9F12_41B7_39E02C13D61F_ko_0_3.webp
+imlevel_3BF6015D_1BC0_9516_41B8_E40594BE43CF.url = media/popup_0DD3AF48_1B40_AD7F_41A8_9A49AC8CBDFA_ko_0_0.webp
+imlevel_3BF6115D_1BC0_9516_41AA_F72ED41355F9.url = media/popup_0DD3AF48_1B40_AD7F_41A8_9A49AC8CBDFA_ko_0_1.webp
+imlevel_3BF6F15D_1BC0_9516_41A8_EA0B6648FA94.url = media/popup_0DD3AF48_1B40_AD7F_41A8_9A49AC8CBDFA_ko_0_2.webp
+imlevel_3BF6D15D_1BC0_9516_4160_A04884A81B68.url = media/popup_0DD3AF48_1B40_AD7F_41A8_9A49AC8CBDFA_ko_0_3.webp
+imlevel_3BF0015E_1BC0_9512_41B0_2A00A66F492D.url = media/popup_0DD3AF48_1B40_AD7F_41A8_9A49AC8CBDFA_ko_0_4.webp
+imlevel_3B018CF1_1BC0_9311_41B9_E5C7AAB84455.url = media/popup_0EB8EBF8_1B41_951F_4189_5073C2791406_ko_0_0.webp
+imlevel_3B03BCF2_1BC0_9313_41B3_F0F8DADAB5D1.url = media/popup_0EB8EBF8_1B41_951F_4189_5073C2791406_ko_0_1.webp
+imlevel_3B039CF2_1BC0_9313_41B6_3CA05F65857C.url = media/popup_0EB8EBF8_1B41_951F_4189_5073C2791406_ko_0_2.webp
+imlevel_3B007CF2_1BC0_9313_41B8_EEF00C13325D.url = media/popup_0EB8EBF8_1B41_951F_4189_5073C2791406_ko_0_3.webp
+
+### Popup Image
+
 ### Title
-panorama_74315D16_7AB9_B09C_419D_05BBCE773C31.label = 1
-panorama_74380907_7ABA_907C_4187_C1A55F4234A5.label = 11
-panorama_7438230E_7ABA_B08C_41D8_8CFC59B55F85.label = 12
-panorama_74396E16_7ABA_B09C_4184_2D61271E9942.label = 13
-panorama_7438D941_7ABA_90F4_41A1_4DF33B9C3396.label = 14
-panorama_74387428_7ABA_70B4_41D9_8B3498D02C53.label = 15
-panorama_74398ED6_7ABA_719C_41DE_ABCC80FD7291.label = 16
-panorama_7439D929_7ABB_90B4_418E_00480F86E63C.label = 17
-panorama_743933BB_7ABB_B794_41D3_ADF78624844A.label = 18
-panorama_743B383F_7AB9_908C_41D5_70E182C0A7C3.label = 2
-panorama_743832A4_7ABA_71BC_41DD_25823E74208F.label = 3
-panorama_74381D9A_7ABA_7394_41B9_E5D9C0482EC8.label = 4
-panorama_5FB61DF9_7B47_F394_41AE_874C2FD2959B.label = 5
-panorama_74381320_7ABA_B0B4_41A6_BE41AAB88920.label = 6
-panorama_7438EDDD_7ABA_B38C_41C9_EB1F257F3D02.label = 7
-panorama_7439C8E5_7ABA_91BC_41D8_9F4BC34F9D6A.label = 8
-panorama_74394421_7ABA_F0B4_41A5_CD7A32F012F7.label = 9
+album_019E228D_1B40_F7F1_41AD_AFDBDCF58E32_0.label = 1-1
+album_0607DFEA_1B47_AD33_413C_65DBC198D1DC_0.label = 1-1-1
+album_0607DFEA_1B47_AD33_413C_65DBC198D1DC_1.label = 1-1-2
+album_019E228D_1B40_F7F1_41AD_AFDBDCF58E32_1.label = 1-2
+album_06FA3789_1B47_7DF1_41B9_D94DF5B94A02_0.label = 1-2-1
+album_06FA3789_1B47_7DF1_41B9_D94DF5B94A02_1.label = 1-2-2
+album_019E228D_1B40_F7F1_41AD_AFDBDCF58E32_2.label = 1-3
+album_06EA25A3_1B40_9D31_41B0_A9CEBF02E5E0_0.label = 1-3-1
+album_06EA25A3_1B40_9D31_41B0_A9CEBF02E5E0_1.label = 1-3-2
+album_06C0B0AD_1B41_B331_41A1_0F24AC9B7511_0.label = 1-4-1
+album_06C0B0AD_1B41_B331_41A1_0F24AC9B7511_1.label = 1-4-2
+album_02D4F17E_1B40_F513_41B1_031D195C4C1A_0.label = 10_33_The Greats - Anna Denardin - Protect The Protectors of Nature_social_media_Anna_D (1)
+album_02D4F17E_1B40_F513_41B1_031D195C4C1A_1.label = 10_33_The Greats - Anna Denardin - Protect The Protectors of Nature_social_media_Anna_D (2)
+album_0F93555E_1B47_BD12_41B4_0BD9843FC04D_0.label = 10_8_The Greats - Hector Exposito Rodriguez - Do It From The Heart_heart2 (1)
+album_0F93555E_1B47_BD12_41B4_0BD9843FC04D_1.label = 10_8_The Greats - Hector Exposito Rodriguez - Do It From The Heart_heart2 (2)
+album_0FB14FFA_1B40_AD13_4182_8A3E51314C34_0.label = 11_45_The Greats - Jordan Schiffer - Ignorance Is Not A Bliss_social media-2 (1)
+album_0FB14FFA_1B40_AD13_4182_8A3E51314C34_1.label = 11_45_The Greats - Jordan Schiffer - Ignorance Is Not A Bliss_social media-2 (2)
+album_0E43E737_1B41_7D12_41B1_0E55619B750C_0.label = 12_81_The Greats - Aymen Bourbih - Bear Kintsugi_Bear Kintsugi (1)
+album_0E43E737_1B41_7D12_41B1_0E55619B750C_1.label = 12_81_The Greats - Aymen Bourbih - Bear Kintsugi_Bear Kintsugi (2)
+album_0D304220_1B41_972E_41A3_AE56664633A2_0.label = 1_62_The Greats - Alissandra Seelaus - Small Changes Big Impact_alissandra seelaus - small changes big impact web (1)
+album_0D304220_1B41_972E_41A3_AE56664633A2_1.label = 1_62_The Greats - Alissandra Seelaus - Small Changes Big Impact_alissandra seelaus - small changes big impact web (2)
+album_08C48103_1B47_B2F2_41B3_9D676D792560_0.label = 1_63_The Greats - Maria Picasso i Piquer - Break The Cycle  Upcycle_artistsforclimate-upcycle-social-poster (1)
+album_08C48103_1B47_B2F2_41B3_9D676D792560_1.label = 1_63_The Greats - Maria Picasso i Piquer - Break The Cycle  Upcycle_artistsforclimate-upcycle-social-poster (2)
+album_0186F5F4_1B47_7D17_41B5_0CBB6E28167D_0.label = 2-1
+album_06919443_1B40_9371_41B1_36119E22D3CA_0.label = 2-1-1
+album_06919443_1B40_9371_41B1_36119E22D3CA_1.label = 2-1-2
+album_0186F5F4_1B47_7D17_41B5_0CBB6E28167D_1.label = 2-2
+album_0538610C_1B41_72F7_41AF_1E83BEAAD106_0.label = 2-2-1
+album_0538610C_1B41_72F7_41AF_1E83BEAAD106_1.label = 2-2-2
+album_0186F5F4_1B47_7D17_41B5_0CBB6E28167D_2.label = 2-3
+album_050B8559_1B41_FD11_41A8_CF79B7E5197A_0.label = 2-3-1
+album_050B8559_1B41_FD11_41A8_CF79B7E5197A_1.label = 2-3-2
+album_058FAC86_1B40_93F3_41AF_7BB421D71C48_0.label = 2-4-1
+album_058FAC86_1B40_93F3_41AF_7BB421D71C48_1.label = 2-4-2
+album_3FB88E35_1BC7_AF16_41B1_F0E0E3EA882D_0.label = 2025 기획전시 브로슈어_페이지_1
+album_3FB88E35_1BC7_AF16_41B1_F0E0E3EA882D_1.label = 2025 기획전시 브로슈어_페이지_2
+album_0E488258_1B5F_B71E_41B8_2D6BEE9AD0DF_0.label = 2_55_The Greats - Elena De Santi - Prepare For A Win_artist-for-climate_ Elena De Santi (1)
+album_0E488258_1B5F_B71E_41B8_2D6BEE9AD0DF_1.label = 2_55_The Greats - Elena De Santi - Prepare For A Win_artist-for-climate_ Elena De Santi (2)
+album_0DC1FBF2_1B40_9513_41AE_55482EAE7A0B_0.label = 2_5_The Greats - Jal Reed - Protect UR Planet_TEDprotecturplanet (1)
+album_0DC1FBF2_1B40_9513_41AE_55482EAE7A0B_1.label = 2_5_The Greats - Jal Reed - Protect UR Planet_TEDprotecturplanet (2)
+album_0122B554_1B41_BD16_4177_FA1104832C7E_0.label = 3-1
+album_0122B554_1B41_BD16_4177_FA1104832C7E_1.label = 3-2
+album_0122B554_1B41_BD16_4177_FA1104832C7E_2.label = 3-3
+album_0DEC1A7E_1B7F_B713_41B9_2CBEF9E8FB72_0.label = 3_18_The Greats - Luisa Brando - Voting For The Future_PNG VOTING RIGHTS_Luisa Brando (1)
+album_0DEC1A7E_1B7F_B713_41B9_2CBEF9E8FB72_1.label = 3_18_The Greats - Luisa Brando - Voting For The Future_PNG VOTING RIGHTS_Luisa Brando (2)
+album_0F794305_1B40_96F1_41B6_E7F42FA16BCF_0.label = 3_24_The Greats - Tanya Korniichuk - You Are Your Own Home_You are your own home (1)
+album_0F794305_1B40_96F1_41B6_E7F42FA16BCF_1.label = 3_24_The Greats - Tanya Korniichuk - You Are Your Own Home_You are your own home (2)
+album_0137AE42_1B40_AF73_4180_78CD7BFC3525_0.label = 4-1
+album_0137AE42_1B40_AF73_4180_78CD7BFC3525_1.label = 4-2
+album_0137AE42_1B40_AF73_4180_78CD7BFC3525_2.label = 4-3
+album_0F61EDAD_1B41_6D31_41A2_48F50F883F23_0.label = 4_17_The Greats - Sam Taylor - Going Nowhere_Sam Taylor Going Nowhere web (1)
+album_0F61EDAD_1B41_6D31_41A2_48F50F883F23_1.label = 4_17_The Greats - Sam Taylor - Going Nowhere_Sam Taylor Going Nowhere web (2)
+album_0DB54D30_1B7F_6D2F_41A1_1C29A4ACCD37_0.label = 4_7_The Greats - Federico Saez - Our Heroes Of Tomorrow_1080x1350-2 (1)
+album_0DB54D30_1B7F_6D2F_41A1_1C29A4ACCD37_1.label = 4_7_The Greats - Federico Saez - Our Heroes Of Tomorrow_1080x1350-2 (2)
+album_014835E3_1B43_9D31_416A_0F5150F6370C_0.label = 5-1
+album_014835E3_1B43_9D31_416A_0F5150F6370C_1.label = 5-2
+album_014835E3_1B43_9D31_416A_0F5150F6370C_2.label = 5-3
+album_0F6D0826_1B40_9333_41AB_18048783BF9F_0.label = 5_48_The Greats - Naufan Noordyanto - Trees vs Industrial Carbon Emission_JPG HD export - NAUFAN NOORDYANTO - Trees VS Industrial Carbon Emissions (1)
+album_0F6D0826_1B40_9333_41AB_18048783BF9F_1.label = 5_48_The Greats - Naufan Noordyanto - Trees vs Industrial Carbon Emission_JPG HD export - NAUFAN NOORDYANTO - Trees VS Industrial Carbon Emissions (2)
+album_0C21D437_1B40_B311_41AF_7F052EF8A62D_0.label = 5_50_The Greats - Valeria Araya - We Need Human Change_climate_72dpi (1)
+album_0C21D437_1B40_B311_41AF_7F052EF8A62D_1.label = 5_50_The Greats - Valeria Araya - We Need Human Change_climate_72dpi (2)
+album_077AC037_1B40_F311_41B7_60A241D65036_0.label = 6-1
+album_077AC037_1B40_F311_41B7_60A241D65036_1.label = 6-2
+album_077AC037_1B40_F311_41B7_60A241D65036_2.label = 6-3
+album_0F040693_1B43_9F11_419E_D4C07605AC74_0.label = 6_43_The Greats - Maryam Khaleghi-Yazdi - All Together - Biodiversity Is The Winner_Maryam Khaleghi-Social media (1)
+album_0F040693_1B43_9F11_419E_D4C07605AC74_1.label = 6_43_The Greats - Maryam Khaleghi-Yazdi - All Together - Biodiversity Is The Winner_Maryam Khaleghi-Social media (2)
+album_0C59458D_1B41_9DF1_4169_D12E33E1B6D0_0.label = 6_46_The Greats - Ina Gouveia - We Have To Talk_ARTWORK 1 - PNG (1)
+album_0C59458D_1B41_9DF1_4169_D12E33E1B6D0_1.label = 6_46_The Greats - Ina Gouveia - We Have To Talk_ARTWORK 1 - PNG (2)
+album_071DD053_1B41_B311_41AA_E428F242A919_0.label = 7-1
+album_071DD053_1B41_B311_41AA_E428F242A919_1.label = 7-2
+album_071DD053_1B41_B311_41AA_E428F242A919_2.label = 7-3
+album_0F209733_1B43_7D11_41B7_75DC2946757D_0.label = 7_85_The Greats - Nitya Bellani - Justice Melting_justicemelting1 (1)
+album_0F209733_1B43_7D11_41B7_75DC2946757D_1.label = 7_85_The Greats - Nitya Bellani - Justice Melting_justicemelting1 (2)
+album_0C06D1D1_1B40_B511_41A6_A152AFE2C7FF_0.label = 7_89_The Greats - Aidan Ryan - Bank Earth_Climate-Change-Bank-Earth-01 (1)
+album_0C06D1D1_1B40_B511_41A6_A152AFE2C7FF_1.label = 7_89_The Greats - Aidan Ryan - Bank Earth_Climate-Change-Bank-Earth-01 (2)
+album_01B73598_1B41_7D1F_41B6_1D1A15BB69DA_0.label = 8-1
+album_01B73598_1B41_7D1F_41B6_1D1A15BB69DA_1.label = 8-2
+album_01B73598_1B41_7D1F_41B6_1D1A15BB69DA_2.label = 8-3
+album_0FDF0123_1B40_9531_41A7_F81AD503591E_0.label = 8_47_The Greats - Joana Mundana - It Is On Us_Joana-Mundana_colourful-hope_for-web_2000px (1)
+album_0FDF0123_1B40_9531_41A7_F81AD503591E_1.label = 8_47_The Greats - Joana Mundana - It Is On Us_Joana-Mundana_colourful-hope_for-web_2000px (2)
+album_03A5D801_1B40_F2F1_419A_DAD64611A289_0.label = 8_68_The Greats - Angela Chamorro Acosta - More Eco Less Ego_Social Media (1)
+album_03A5D801_1B40_F2F1_419A_DAD64611A289_1.label = 8_68_The Greats - Angela Chamorro Acosta - More Eco Less Ego_Social Media (2)
+album_019EF3CE_1B40_B573_4173_3F94F69131AA_0.label = 9-1
+album_019EF3CE_1B40_B573_4173_3F94F69131AA_1.label = 9-2
+album_019EF3CE_1B40_B573_4173_3F94F69131AA_2.label = 9-3
+album_030A00FC_1B41_F316_41BA_A2968633DB9F_0.label = 9_30_The Greats - Laura Valdes Gonzalez - A Cleaner Future Is A BrExports for Social Media 01 - A breath of fresh air-Laura_Valdes_Mesa de trabajo 1 (1)
+album_030A00FC_1B41_F316_41BA_A2968633DB9F_1.label = 9_30_The Greats - Laura Valdes Gonzalez - A Cleaner Future Is A BrExports for Social Media 01 - A breath of fresh air-Laura_Valdes_Mesa de trabajo 1 (2)
+album_0FFEAAB4_1B47_9717_419E_F8D779DC714C_0.label = 9_30_The Greats - Laura Valdes Gonzalez - A Cleaner Future Is A Brighter Future_climate-change_andra-badea_online-usage (1)
+album_0FFEAAB4_1B47_9717_419E_F8D779DC714C_1.label = 9_30_The Greats - Laura Valdes Gonzalez - A Cleaner Future Is A Brighter Future_climate-change_andra-badea_online-usage (2)
+album_019E228D_1B40_F7F1_41AD_AFDBDCF58E32.label = Photo Album 1-1
+album_0607DFEA_1B47_AD33_413C_65DBC198D1DC.label = Photo Album 1-1-1
+album_06FA3789_1B47_7DF1_41B9_D94DF5B94A02.label = Photo Album 1-2-1
+album_06EA25A3_1B40_9D31_41B0_A9CEBF02E5E0.label = Photo Album 1-3-1
+album_06C0B0AD_1B41_B331_41A1_0F24AC9B7511.label = Photo Album 1-4-1
+album_02D4F17E_1B40_F513_41B1_031D195C4C1A.label = Photo Album 10_33_The Greats - Anna Denardin - Protect The Protectors of Nature_social_media_Anna_D (1)
+album_0F93555E_1B47_BD12_41B4_0BD9843FC04D.label = Photo Album 10_8_The Greats - Hector Exposito Rodriguez - Do It From The Heart_heart2 (1)
+album_0FB14FFA_1B40_AD13_4182_8A3E51314C34.label = Photo Album 11_45_The Greats - Jordan Schiffer - Ignorance Is Not A Bliss_social media-2 (1)
+album_0E43E737_1B41_7D12_41B1_0E55619B750C.label = Photo Album 12_81_The Greats - Aymen Bourbih - Bear Kintsugi_Bear Kintsugi (1)
+album_0D304220_1B41_972E_41A3_AE56664633A2.label = Photo Album 1_62_The Greats - Alissandra Seelaus - Small Changes Big Impact_alissandra seelaus - small changes big impact web (1)
+album_08C48103_1B47_B2F2_41B3_9D676D792560.label = Photo Album 1_63_The Greats - Maria Picasso i Piquer - Break The Cycle  Upcycle_artistsforclimate-upcycle-social-poster (1)
+album_0186F5F4_1B47_7D17_41B5_0CBB6E28167D.label = Photo Album 2-1
+album_06919443_1B40_9371_41B1_36119E22D3CA.label = Photo Album 2-1-1
+album_0538610C_1B41_72F7_41AF_1E83BEAAD106.label = Photo Album 2-2-1
+album_050B8559_1B41_FD11_41A8_CF79B7E5197A.label = Photo Album 2-3-1
+album_058FAC86_1B40_93F3_41AF_7BB421D71C48.label = Photo Album 2-4-1
+album_3FB88E35_1BC7_AF16_41B1_F0E0E3EA882D.label = Photo Album 2025 기획전시 브로슈어_페이지_1
+album_0E488258_1B5F_B71E_41B8_2D6BEE9AD0DF.label = Photo Album 2_55_The Greats - Elena De Santi - Prepare For A Win_artist-for-climate_ Elena De Santi (1)
+album_0DC1FBF2_1B40_9513_41AE_55482EAE7A0B.label = Photo Album 2_5_The Greats - Jal Reed - Protect UR Planet_TEDprotecturplanet (1)
+album_0122B554_1B41_BD16_4177_FA1104832C7E.label = Photo Album 3-1
+album_0DEC1A7E_1B7F_B713_41B9_2CBEF9E8FB72.label = Photo Album 3_18_The Greats - Luisa Brando - Voting For The Future_PNG VOTING RIGHTS_Luisa Brando (1)
+album_0F794305_1B40_96F1_41B6_E7F42FA16BCF.label = Photo Album 3_24_The Greats - Tanya Korniichuk - You Are Your Own Home_You are your own home (1)
+album_0137AE42_1B40_AF73_4180_78CD7BFC3525.label = Photo Album 4-1
+album_0F61EDAD_1B41_6D31_41A2_48F50F883F23.label = Photo Album 4_17_The Greats - Sam Taylor - Going Nowhere_Sam Taylor Going Nowhere web (1)
+album_0DB54D30_1B7F_6D2F_41A1_1C29A4ACCD37.label = Photo Album 4_7_The Greats - Federico Saez - Our Heroes Of Tomorrow_1080x1350-2 (1)
+album_014835E3_1B43_9D31_416A_0F5150F6370C.label = Photo Album 5-1
+album_0F6D0826_1B40_9333_41AB_18048783BF9F.label = Photo Album 5_48_The Greats - Naufan Noordyanto - Trees vs Industrial Carbon Emission_JPG HD export - NAUFAN NOORDYANTO - Trees VS Industrial Carbon Emissions (1)
+album_0C21D437_1B40_B311_41AF_7F052EF8A62D.label = Photo Album 5_50_The Greats - Valeria Araya - We Need Human Change_climate_72dpi (1)
+album_077AC037_1B40_F311_41B7_60A241D65036.label = Photo Album 6-1
+album_0F040693_1B43_9F11_419E_D4C07605AC74.label = Photo Album 6_43_The Greats - Maryam Khaleghi-Yazdi - All Together - Biodiversity Is The Winner_Maryam Khaleghi-Social media (1)
+album_0C59458D_1B41_9DF1_4169_D12E33E1B6D0.label = Photo Album 6_46_The Greats - Ina Gouveia - We Have To Talk_ARTWORK 1 - PNG (1)
+album_071DD053_1B41_B311_41AA_E428F242A919.label = Photo Album 7-1
+album_0F209733_1B43_7D11_41B7_75DC2946757D.label = Photo Album 7_85_The Greats - Nitya Bellani - Justice Melting_justicemelting1 (1)
+album_0C06D1D1_1B40_B511_41A6_A152AFE2C7FF.label = Photo Album 7_89_The Greats - Aidan Ryan - Bank Earth_Climate-Change-Bank-Earth-01 (1)
+album_01B73598_1B41_7D1F_41B6_1D1A15BB69DA.label = Photo Album 8-1
+album_0FDF0123_1B40_9531_41A7_F81AD503591E.label = Photo Album 8_47_The Greats - Joana Mundana - It Is On Us_Joana-Mundana_colourful-hope_for-web_2000px (1)
+album_03A5D801_1B40_F2F1_419A_DAD64611A289.label = Photo Album 8_68_The Greats - Angela Chamorro Acosta - More Eco Less Ego_Social Media (1)
+album_019EF3CE_1B40_B573_4173_3F94F69131AA.label = Photo Album 9-1
+album_030A00FC_1B41_F316_41BA_A2968633DB9F.label = Photo Album 9_30_The Greats - Laura Valdes Gonzalez - A Cleaner Future Is A BrExports for Social Media 01 - A breath of fresh air-Laura_Valdes_Mesa de trabajo 1 (1)
+album_0FFEAAB4_1B47_9717_419E_F8D779DC714C.label = Photo Album 9_30_The Greats - Laura Valdes Gonzalez - A Cleaner Future Is A Brighter Future_climate-change_andra-badea_online-usage (1)
+album_04872F22_1BC0_AD33_417A_39803E278DD5.label = Photo Album 관람후기_선정 (1)
+album_07F9E01A_1B43_7312_4198_3292C85FA32D.label = Photo Album 책1 (1)
+album_07309A42_1B41_B773_41AE_A549BDC9B2AD.label = Photo Album 책2 (1)
+album_043C9040_1B3F_736F_4168_CA4E1CDC6ED0.label = Photo Album 책3 (1)
+album_04872F22_1BC0_AD33_417A_39803E278DD5_0.label = 관람후기_선정 (1)
+album_04872F22_1BC0_AD33_417A_39803E278DD5_1.label = 관람후기_선정 (2)
+album_04872F22_1BC0_AD33_417A_39803E278DD5_2.label = 관람후기_선정 (3)
+map_324F3E60_1BCF_AF2E_41A9_B849ED9F807C.label = 미니맵-03
+video_0F9DBFDA_1CFA_08B4_4170_FABBA96D630E.label = 영상2
+album_07F9E01A_1B43_7312_4198_3292C85FA32D_0.label = 책1 (1)
+album_07F9E01A_1B43_7312_4198_3292C85FA32D_1.label = 책1 (2)
+album_07309A42_1B41_B773_41AE_A549BDC9B2AD_0.label = 책2 (1)
+album_07309A42_1B41_B773_41AE_A549BDC9B2AD_1.label = 책2 (2)
+album_043C9040_1B3F_736F_4168_CA4E1CDC6ED0_0.label = 책3 (1)
+album_043C9040_1B3F_736F_4168_CA4E1CDC6ED0_1.label = 책3 (2)
+
+### Video
+videolevel_0FA69C8D_1CFE_08AF_41BB_5FC93BBDE421.url = media/video_0F9DBFDA_1CFA_08B4_4170_FABBA96D630E_ko.mp4
+videolevel_0FA69C8D_1CFE_08AF_41BB_5FC93BBDE421.posterURL = media/video_0F9DBFDA_1CFA_08B4_4170_FABBA96D630E_poster_ko.jpg
+
+### Video Subtitles
 
 ## Skin
 
 ### Button
+Button_0DECFFED_12FA_D26D_419B_F907711405D7_mobile.label = BOOK NOW
+Button_18126A3F_1663_8BEF_41A4_B0EDA1A5F4E3_mobile.label = BOOK NOW
+Button_33E0F47E_11C1_A20D_419F_BB809AD89259_mobile.label = CONTACT
+Button_03D37B27_0C7A_63B3_41A1_89572D8C8762_mobile.label = INFO
+Button_1CA392FC_0C0A_2295_41A3_18DEA65FB6AD_mobile.label = LOCATION
 Button_67A88117_2901_B901_41AC_72E228DC0118.label = MAP
-Button_1BAB869D_2900_9837_41A5_2B29CDB1FFAD.label = leaflet
-Button_707C322E_3853_21A8_41C4_49B00C52156D.label = leaflet
+Button_1FDDCF4A_0C0A_23FD_417A_1C14E098FDFD_mobile.label = PANORAMAS
+Button_1EBF3282_0C0A_1D6D_4190_52FC7F8C00A5_mobile.label = PHOTOS
+Button_1FE4B611_0C0A_256F_418E_EA27E66F8360_mobile.label = PLAN
+Button_1BAB869D_2900_9837_41A5_2B29CDB1FFAD.label = brochure
 
 ### Image
-Image_9511127C_9B79_D2C1_41D8_D080B87BFD84.url = skin/Image_9511127C_9B79_D2C1_41D8_D080B87BFD84_ko.jpg
-Image_9511127C_9B79_D2C1_41D8_D080B87BFD84_mobile.url = skin/Image_9511127C_9B79_D2C1_41D8_D080B87BFD84_mobile_ko.jpg
+Image_04FF3C2C_1216_7593_41AF_91EA0BBCCE77_mobile.url = skin/Image_04FF3C2C_1216_7593_41AF_91EA0BBCCE77_mobile_ko.jpg
+Image_0DEC8FEC_12FA_D26C_4162_7A2BAB1DA270_mobile.url = skin/Image_0DEC8FEC_12FA_D26C_4162_7A2BAB1DA270_mobile_ko.jpg
+Image_9511127C_9B79_D2C1_41D8_D080B87BFD84.url = skin/Image_9511127C_9B79_D2C1_41D8_D080B87BFD84_ko.png
+Image_9511127C_9B79_D2C1_41D8_D080B87BFD84_mobile.url = skin/Image_9511127C_9B79_D2C1_41D8_D080B87BFD84_mobile_ko.png
 
 ### Label
 Label_14FBC305_1BED_F1EE_41B3_DAC14B1EE44E.text = 국회부산도서관
-Label_14F82305_1BED_F1EE_41AD_7A6E6AD00A22.text = 기후편지 CLIMATE LETTER
-Label_14FBC305_1BED_F1EE_41B3_DAC14B1EE44E_mobile.text = 부산대학교박물관
-Label_14F82305_1BED_F1EE_41AD_7A6E6AD00A22_mobile.text = 어둠에서 빛으로
+Label_14F82305_1BED_F1EE_41AD_7A6E6AD00A22.text = 기후편지, Climate Letter
 
-### Tooltip
-Container_32CC4EA6_16EF_8891_41B3_C36F5FCE49B7_mobile.toolTip = 부산대학교박물관
+### Multiline Text
+HTMLText_0B1CF751_121B_B3B2_41AA_8DF6E24BB6F1_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.38vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.38vmin;font-family:'Cinzel Bold';"><B>LOREM</B></SPAN><SPAN STYLE="font-size:10.38vmin;font-family:'Otama.ep';"><B>/</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16.070000000000004vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16.07vmin;font-family:'Cinzel Bold';"><B>IPSUM</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.93vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.98vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:6.230000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#987b55;font-size:5.03vmin;font-family:'Antonio';"><B>LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT. MAECENAS CONGHE EROS MAGNA.</B></SPAN><SPAN STYLE="color:#987b55;font-size:6.23vmin;"> </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.98vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.610000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:3.61vmin;font-family:'Open Sans Semibold';">Proin sit amet pharetra magna. Donec varius eu nisi at facilisis. Vivamus nibh magna, fermentum ac nibh sit amet, euismod efficitur sem. Fusce blandit, purus sed gravida vulputate, justo quam laoreet quam, et dictum mauris arcu vitae justo. </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.98vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.610000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:3.61vmin;font-family:'Open Sans Semibold';">Vivamus euismod condimentum ligula quis feugiat. Cras imperdiet tortor mi, a posuere velit tempus et. Maecenas et scelerisque turpis. Quisque in gravida leo, sed dapibus nibh. Ut at consequat turpis. Curabitur et tempor ex, aliquet interdum quam. Aliquam erat volutpat.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.98vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.610000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:3.61vmin;font-family:'Open Sans Semibold';">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.98vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.610000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:3.61vmin;font-family:'Open Sans Semibold';">Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.98vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.610000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:3.61vmin;font-family:'Open Sans Semibold';">Integer eget pulvinar urna, et tincidunt sem. Suspendisse imperdiet tincidunt risus id mollis. Vivamus suscipit dui sit amet tortor pellentesque, ac laoreet tortor finibus. Nulla maximus urna id sagittis ultricies. Suspendisse in mi sit amet nisi rutrum sodales non eu elit. Integer cursus, odio nec efficitur fermentum.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.98vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.610000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:3.61vmin;font-family:'Open Sans Semibold';">Ut sed mattis ipsum. Curabitur blandit hendrerit nisi ac feugiat. </SPAN></SPAN></DIV></div>
+HTMLText_0DECCFED_12FA_D26D_418B_9646D02C4859_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12.570000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12.57vmin;font-family:'Cinzel Bold';"><B>CONTACT</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.4vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.98vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5.68vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#987b55;font-size:5.68vmin;font-family:'Antonio';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.610000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:3.61vmin;font-family:'Open Sans Semibold';">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:6.23vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.98vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5.68vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#987b55;font-size:5.68vmin;font-family:'Antonio';"><B>CONTACT:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.610000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;font-family:'Open Sans Semibold';">E-mail: </SPAN><SPAN STYLE="color:#666666;font-size:3.61vmin;font-family:'Open Sans Semibold';">Info@loremipsum.com </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.610000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;font-family:'Open Sans Semibold';">Web:</SPAN><SPAN STYLE="color:#666666;font-size:3.61vmin;font-family:'Open Sans Semibold';"> www.loremipsum.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.610000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;font-family:'Open Sans Semibold';">Tlf.: </SPAN><SPAN STYLE="color:#666666;font-size:3.61vmin;font-family:'Open Sans Semibold';">+11 111 111 111</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.610000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;font-family:'Open Sans Semibold';">Address:</SPAN><SPAN STYLE="color:#666666;font-size:3.61vmin;font-family:'Open Sans Semibold';"> line 1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.610000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:3.61vmin;font-family:'Open Sans Semibold';">Address line 2</SPAN></SPAN></DIV></div>
+HTMLText_2F8A4686_0D4F_6B71_4183_10C1696E2923_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.98vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.98vmin;font-family:'Cinzel Bold';"><B>floorplan/</B></SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.98vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.98vmin;font-family:'Cinzel Bold';">PANORAMA LIST:</SPAN></SPAN></DIV></div>
+HTMLText_18127A3F_1663_8BEF_4175_B0DF8CE38BFE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:9.95vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9.95vmin;font-family:'Cinzel Bold';"><B>LOCATION</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5.03vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.98vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5.029999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#987b55;font-size:5.03vmin;font-family:'Antonio';"><B>LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT. MAECENAS CONGUE EROS MAGNA, ID BIBENDUM EROS MALESUADA VITAE.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.98vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.610000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;font-family:'Open Sans Semibold';">Address:</SPAN><SPAN STYLE="color:#999999;font-size:3.61vmin;font-family:'Open Sans Semibold';"> line 1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.610000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;font-family:'Open Sans Semibold';">Address:</SPAN><SPAN STYLE="color:#999999;font-size:3.61vmin;font-family:'Open Sans Semibold';"> line 2</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.610000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;font-family:'Open Sans Semibold';">Address:</SPAN><SPAN STYLE="color:#999999;font-size:3.61vmin;font-family:'Open Sans Semibold';"> line 3</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.610000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;font-family:'Open Sans Semibold';">GPS:</SPAN><SPAN STYLE="color:#999999;font-size:3.61vmin;font-family:'Open Sans Semibold';"> xxxxxxxxxx</SPAN></SPAN></DIV></div>
 
 ## Tour
 

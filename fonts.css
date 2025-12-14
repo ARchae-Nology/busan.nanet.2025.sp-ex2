@@ -1,6 +1,42 @@
 @font-face {
    font-family: "Cinzel Bold";
-   src: url("fonts/Cinzel-Bold.woff") format("woff"), url("fonts/Cinzel-Bold.eot") format("embedded-opentype"), url("fonts/Cinzel-Bold.otf") format("opentype");
+   src: url("fonts/Cinzel-Bold.woff2") format("woff2");
    font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Otama.ep";
+   src: url("fonts/Otama-ep.woff2") format("woff2");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Antonio";
+   src: url("fonts/Antonio Regular.woff2") format("woff2");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Antonio";
+   src: url("fonts/Antonio Bold.woff2") format("woff2");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Open Sans Semibold";
+   src: url("fonts/Open Sans Semibold.woff2") format("woff2");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Open Sans Semibold";
+   src: url("fonts/Open Sans Semibold Italic.woff2") format("woff2");
+   font-weight: bold;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Antonio";
+   src: url("fonts/Antonio-Regular.woff2") format("woff2");
+   font-weight: normal;
    font-style: normal;
 }
